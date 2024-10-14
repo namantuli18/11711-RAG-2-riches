@@ -51,6 +51,8 @@ page_names = ['Pittsburgh',
     'Bicycle Heaven',
     'Carnegie Museum of Art',
     'Carnegie Museum of Natural History',
+    'Carnegie Mellon University',
+    'Carnegie Mellon School of Computer Science',
     'Kamin Science Center',
     'Center for PostNatural History',
     "Children's Museum of Pittsburgh",
@@ -71,7 +73,10 @@ page_names = ['Pittsburgh',
     'Trundle Manor',
     'Wood Street Galleries',
     'Picklesburgh',
-    'Bloomfield (Pittsburgh)']
+    'Bloomfield (Pittsburgh)',
+    'Pittsburgh Pirates',
+    'Pittsburgh Steelers',
+    'Pittsburgh Penguins']
 
 exclude_sections = ['See also', 'References', 'Bibliography', 'External links', 'Explanatory notes', 'Further reading']
 for page in tqdm.tqdm(page_names):

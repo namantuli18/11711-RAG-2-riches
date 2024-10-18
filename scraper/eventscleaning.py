@@ -128,5 +128,5 @@ def process_event_data(cmu_file_path, downtown_file_path):
         json.dump(combined_event_data, output_file, indent=4)
     #print(json.dumps(combined_event_data, indent=4))
 
-process_event_data('dump-event_data.json', 'DowntownEvents.json')
+process_event_data('raw_data/dump-event_data.json', 'raw_data/DowntownEvents.json')
 

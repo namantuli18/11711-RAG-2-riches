@@ -9,6 +9,11 @@ import time
 from bs4 import BeautifulSoup
 import requests
 import re
+import os
+import pandas as pd
+import numpy as np
+from datetime import datetime
+from dateutil import parser
 
 class CFG:
     cmu_events = {
@@ -30,6 +35,9 @@ class CFG:
         'URL': "https://community.cmu.edu/s/events",
         'TIMEOUT': 1
     }
+    cmu_academic_calendar = {
+        'URL': 'https://www.cmu.edu/hub/calendar/docs/2425-academic-calendar-list-view.xlsx'
+    }
 
 class ChromeDriver:
     def __init__(self, headless=True, no_sandbox=True):
@@ -49,6 +57,7 @@ class ChromeDriver:
         if self.driver:
             self.driver.quit()
 
+CURR_year = ' 2024'
 
 
 def scrape_cmu_events(driver):
@@ -274,6 +283,66 @@ def scrape_cmu_alumni_events(driver):
             break
     return events
 
+def process_day(day_str):
+    day_map = {
+    'M': 'Monday',
+    'Tu': 'Tuesday',
+    'W': 'Wednesday',
+    'Th': 'Thursday',
+    'F': 'Friday',
+    'Sa': 'Saturday',
+    'Su': 'Sunday',
+    'S': 'Sunday'
+    }
+    try:
+        if '-' in day_str:
+            start_day, end_day = day_str.split('-')
+            start_full = day_map.get(start_day.strip(), start_day)
+            end_full = day_map.get(end_day.strip(), end_day)
+            return f"{start_full} to {end_full}"
+        else:
+            days = day_str.split()
+            full_days = [day_map.get(day.strip(), day) for day in days]
+            return ' '.join(full_days)
+    except: pass
+
+def format_dates(row):
+    global CURR_year
+    try:
+        if pd.notna(row['Date_from']):
+            date_obj = parser.parse(str(row['Date_from']))
+            formatted_date = date_obj.strftime("%d %B") + CURR_year
+
+            if pd.notna(row['Date_to']):
+                end_date = parser.parse(str(row['Date_to']))
+                formatted_date += " to {}".format(end_date.strftime("%d %B") + CURR_year)
+
+            return formatted_date
+    except:
+        CURR_year = " 2025"
+        return None
+
+def scrape_academic_calendar():
+    response = requests.get(CFG.cmu_academic_calendar['URL'])
+    file_path = 'temp.xlsx'
+
+    with open(file_path, 'wb') as f:
+        f.write(response.content)
+
+    df = pd.read_excel(file_path, header=4, names=['Date_from', 'temp', 'Date_to', 'Day', 'event_name'])
+    if os.path.exists(file_path):
+        os.remove(file_path)
+    df.drop('temp', axis=1, inplace=True)
+
+    df_filtered = df[df['event_name'].notna()]
+    
+    df_filtered['date'] = df_filtered.apply(format_dates, axis=1)
+    df_filtered['Day'] = df_filtered['Day'].apply(process_day)
+
+    df_filtered = df_filtered[df_filtered['date'].notna()]
+    df_filtered['date'] = df_filtered['Day'] + " " + df_filtered['date']
+
+    return df_filtered[['event_name', 'date']].to_dict(orient='records')
 
 def scrape_events_from_cmu_pages():
     chrome_driver = ChromeDriver(headless=True)
@@ -284,10 +353,12 @@ def scrape_events_from_cmu_pages():
     cmu_events = scrape_cmu_events(driver)
     cmu_engage_events = scrape_cmu_engage_events()
     cmu_alumni_events = scrape_cmu_alumni_events(driver)
+    cmu_academic_events = scrape_academic_calendar()
 
     exhaustive_list_events.extend(cmu_events)
     exhaustive_list_events.extend(cmu_engage_events)
     exhaustive_list_events.extend(cmu_alumni_events)
+    exhaustive_list_events.extend(cmu_academic_events)
 
     chrome_driver.kill()
 

@@ -26,7 +26,7 @@ def parse_date(date_str):
     for fmt in formats:
         try:
             parsed_date = datetime.strptime(date_str, fmt)
-            return parsed_date, fmt 
+            return parsed_date, fmt  
         except (ValueError, TypeError):
             continue
     return None, None
@@ -117,6 +117,16 @@ def remove_duplicate_event(events, event_name_to_remove):
             filtered_events.append(event)
     return filtered_events
 
+def remove_exact_duplicates(events):
+    unique_events = []
+    seen = set()
+    for event in events:
+        event_str = json.dumps(event, sort_keys=True)
+        if event_str not in seen:
+            seen.add(event_str)
+            unique_events.append(event)
+    return unique_events
+
 def process_event_data(cmu_file_path, downtown_file_path):
     with open(cmu_file_path, 'r') as file:
         cmu_event_data = json.load(file)
@@ -130,6 +140,7 @@ def process_event_data(cmu_file_path, downtown_file_path):
     print(f"Number of events after combining: {len(combined_event_data)}")
     combined_event_data = remove_duplicate_event(combined_event_data, "CMU Pantry Hours")
     combined_event_data = combine_events(combined_event_data)
+    combined_event_data = remove_exact_duplicates(combined_event_data)
     print(f"Number of events after processing: {len(combined_event_data)}")
     with open('combined_events.json', 'w') as output_file:
         json.dump(combined_event_data, output_file, indent=4)

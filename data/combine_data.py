@@ -3,6 +3,9 @@ import json
 import glob
 import os
 
+def get_file_name(file_path):
+    return os.path.splitext(os.path.basename(file_path))[0]
+
 def concatenate_csv_files(folder_path):
     csv_files = glob.glob(os.path.join(folder_path, "*.csv"))
     total_rows = 0
@@ -11,7 +14,9 @@ def concatenate_csv_files(folder_path):
         try:
             df = pd.read_csv(file)
             if 'text' in df.columns:
-                dfs.append(df[['text']])
+                file_name = get_file_name(file)
+                df['file_name'] = file_name 
+                dfs.append(df[['text', 'file_name']])
                 total_rows += len(df)
             else:
                 print(f"'text' column not found in {file}. Skipping.")
@@ -19,7 +24,7 @@ def concatenate_csv_files(folder_path):
             print(f"Skipping empty file: {file}")
         except pd.errors.ParserError as e:
             print(f"Error parsing file: {file}. Error: {str(e)}")
-    concatenated_df = pd.concat(dfs, ignore_index=True) if dfs else pd.DataFrame(columns=["text"])
+    concatenated_df = pd.concat(dfs, ignore_index=True) if dfs else pd.DataFrame(columns=["text", "file_name"])
     print(f"Processed {len(csv_files)} CSV files and added {total_rows} rows.")
     return concatenated_df
 
@@ -30,13 +35,14 @@ def append_json_to_dataframe(folder_path, df):
         try:
             with open(file, 'r') as f:
                 data = json.load(f)
+            file_name = get_file_name(file)
             if isinstance(data, list):
                 for item in data:
-                    new_row = pd.DataFrame({"text": [str(item)]})
+                    new_row = pd.DataFrame({"text": [str(item)], "file_name": [file_name]})
                     df = pd.concat([df.reset_index(drop=True), new_row.reset_index(drop=True)], ignore_index=True)
                     total_rows += 1
             else:
-                new_row = pd.DataFrame({"text": [str(data)]})
+                new_row = pd.DataFrame({"text": [str(data)], "file_name": [file_name]})
                 df = pd.concat([df.reset_index(drop=True), new_row.reset_index(drop=True)], ignore_index=True)
                 total_rows += 1
         except json.JSONDecodeError as e:
@@ -54,7 +60,8 @@ def append_txt_to_dataframe(folder_path, df):
         try:
             with open(file, 'r') as f:
                 content = f.read().strip()
-            new_row = pd.DataFrame({"text": [content]})
+            file_name = get_file_name(file)
+            new_row = pd.DataFrame({"text": [content], "file_name": [file_name]})
             df = pd.concat([df.reset_index(drop=True), new_row.reset_index(drop=True)], ignore_index=True)
             total_rows += 1
         except Exception as e:
@@ -67,10 +74,11 @@ def process_special_file(file_path, df):
     try:
         with open(file_path, 'r') as f:
             content = f.read()
+        file_name = get_file_name(file_path)
         chunks = content.split(f"{'-'*80}\n\n")
         for chunk in chunks:
             if chunk.strip():
-                new_row = pd.DataFrame({"text": [chunk.strip()]})
+                new_row = pd.DataFrame({"text": [chunk.strip()], "file_name": [file_name]})
                 df = pd.concat([df.reset_index(drop=True), new_row.reset_index(drop=True)], ignore_index=True)
                 total_rows += 1
     except Exception as e:
@@ -94,6 +102,3 @@ print(result_df_with_special.head())
 output_path = "./data/combined_data/final_data.csv"
 result_df_with_special.to_csv(output_path, index=False)
 print(f"Concatenated CSV with JSON, TXT, and special file data saved as '{output_path}'")
-
-
-

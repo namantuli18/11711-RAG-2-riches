@@ -78,9 +78,23 @@ def scrape_mayers_info():
         except:pass
 
     return data
+
+
+def scrape_opera_information():
+    url = "https://pittsburghopera.org/about/mission-history"
+    response = requests.get(url)
+    soup = BeautifulSoup(response.content, 'html.parser')
+
+    contents = soup.find('span', class_ = 'hs_cos_wrapper hs_cos_wrapper_widget hs_cos_wrapper_type_rich_text').text
+    l = []
+    l.append(['Mission of Pittsburgh Opera', contents])
+    return l
+    
+
 if __name__ == "__main__":
     data = scrape_pittsburgh_info()
     data.extend(scrape_mayers_info())
+    data.extend(scrape_opera_information())
 
     with open('raw_data/pittsburgh_info.csv', 'w', newline='', encoding='utf-8') as file:
         writer = csv.writer(file)

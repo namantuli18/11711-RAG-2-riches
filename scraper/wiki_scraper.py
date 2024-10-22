@@ -76,7 +76,10 @@ page_names = ['Pittsburgh',
     'Bloomfield (Pittsburgh)',
     'Pittsburgh Pirates',
     'Pittsburgh Steelers',
-    'Pittsburgh Penguins']
+    'Pittsburgh Penguins',
+    'PNC Financial Services',
+    'List_of_bridges_of_Pittsburgh',
+    'Smithfield Street Bridge']
 
 exclude_sections = ['See also', 'References', 'Bibliography', 'External links', 'Explanatory notes', 'Further reading']
 for page in tqdm.tqdm(page_names):

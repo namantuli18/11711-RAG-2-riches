@@ -1,6 +1,6 @@
 # 11711-RAG-2-riches
 
-### Data Creation
+## Data Creation
 
 #### Raw Data Extraction
 1. Wikipedia: The first part of our textual knowledge comprises data that is scraped from Wikipedia.
@@ -60,7 +60,7 @@ python3 data\scripts\combine_data.py
 
 
 
-### Fine-Tuning Approach
+## Fine-Tuning Approach
 
 For the fine-tuning task, we utilized the LLaMa-3.2 model, training it on synthetically generated question-and-answer pairs generated from our scraped corpus. 
 The fine-tuning pipeline is structured in two phases:

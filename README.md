@@ -28,4 +28,4 @@ The fine-tuning pipeline is structured in two phases:
    ```
    ```bash
    python3 scripts\finetuning\QA_Generation\generate_qa.py "Enter your text here"
-4. The entire corpus of our question and answer pairs is located in separate text files in the folder data\finetune_data\QnA-corpus.
+4. The entire corpus of our question and answer pairs is located in separate text files in the folder: data\finetune_data\QnA-corpus.

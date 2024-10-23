@@ -2,7 +2,7 @@
 
 ### Data Creation
 
-Raw Data Extraction
+#### Raw Data Extraction
 1. Wikipedia: The first part of our textual knowledge comprises data that is scraped from Wikipedia.
 2. Reddit: Data was scraped from most of the famous subreddits related to Pittsburgh and related topics using PRAW API [PRAW]. Only recent 1000 threads of each subreddit were extracted. 
 3. Brittanica Encyclopedia Web pages: All articles had a print button that when clicked, downloads the pdf version of the article. Exploited this to fetch all the articles in pdf version and extracted the raw text.

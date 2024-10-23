@@ -22,9 +22,10 @@ The fine-tuning pipeline is structured in two phases:
 #### Scripts for fine-tuning
 1. The QA Generation notebook for our text corpus is located at path: scripts\finetuning\QA_Generation\QA-generate-all_data.ipynb
 2. To use the same model to generate question and answer pairs, you can use the below script:
+   
    ```bash
    pip3 install -r requirements.txt
    ```
    ```bash
    python3 scripts\finetuning\QA_Generation\generate_qa.py "Enter your text here"
-3. The entire corpus of our question and answer pairs is located in separate text files in the folder data\finetune_data\QnA-corpus.
+4. The entire corpus of our question and answer pairs is located in separate text files in the folder data\finetune_data\QnA-corpus.

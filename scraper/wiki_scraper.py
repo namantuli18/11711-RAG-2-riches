@@ -77,13 +77,17 @@ page_names = ['Pittsburgh',
     'Pittsburgh Pirates',
     'Pittsburgh Steelers',
     'Pittsburgh Penguins',
+    'Pittsburgh_Zoo_%26_Aquarium',
     'PNC Financial Services',
     'List_of_bridges_of_Pittsburgh',
     'Smithfield Street Bridge',
     'Dippy (statue)',
     'Canton_Avenue',
+    'Perry_North',
+    'Carnegie_Library_of_Pittsburgh',
     'Shadyside (Pittsburgh)',
-    'Squirrel Hill']
+    'Squirrel Hill',
+    'University_of_Pittsburgh_Medical_Center']
 
 exclude_sections = ['See also', 'References', 'Bibliography', 'External links', 'Explanatory notes', 'Further reading']
 for page in tqdm.tqdm(page_names):

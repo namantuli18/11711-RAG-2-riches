@@ -1,5 +1,33 @@
 # 11711-RAG-2-riches
 
+### Data Creation
+
+Raw Data Extraction
+1. Wikipedia: The first part of our textual knowledge comprises data that is scraped from Wikipedia.
+2. Reddit: Data was scraped from most of the famous subreddits related to Pittsburgh and related topics using PRAW API [PRAW]. Only recent 1000 threads of each subreddit were extracted. 
+3. Brittanica Encyclopedia Web pages: All articles had a print button that when clicked, downloads the pdf version of the article. Exploited this to fetch all the articles in pdf version and extracted the raw text.
+4. CMU edu pages: These were mostly static web pages and so performed recursive web scraping to a depth of 2. Extracted all the text and the text processing was done using llama-3.2-1B-Instruct LLM model.
+
+Scripts to generate textual corpus:
+  
+  ```bash
+   #Wikipedia Data
+   python3 scraper\wiki_scraper.py
+   ```
+  ```bash
+   #Reddit data
+   python3 scraper\subRedditScrapper.py
+   ```
+
+  ```bash
+   #Encyclopedia Data
+   python3 scraper\BrittanicaPdfParser.py
+   ```
+
+  ```bash
+   #CMU edu webpages
+   python3 scraper\CmuEduScrapper.py
+   ```
 
 ### Fine-Tuning Approach
 

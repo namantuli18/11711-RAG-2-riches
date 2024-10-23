@@ -3177,6 +3177,580 @@ The Children's Museum of Pittsburgh presents a wide variety of programs for chil
 The addition has received numerous awards, including a 2009 National Medal for Museum and Library Service from the Institute of Museum and Library Services, National Trust for Historic Preservation award, LEED silver certification, and an award from American Institute of Architects.
 Children's Museum Executive Director Jane Werner received the Green Building Alliance 2006 Shades of Green Leadership Award which celebrates leaders who have helped transform the Pittsburgh region into a more sustainable place to live and work. Werner's contributions cited include launching a new program/initiative supporting green-building related activities; raising significant community awareness and outreach of green issues through materials, programs and events; and influencing the adoption of a program/policy through advocacy efforts and implementing green management and operation policies within the Children's Museum of Pittsburgh.
 
+**Smithfield Street Bridge**
+
+The Smithfield Street Bridge is a lenticular truss bridge crossing the Monongahela River in Pittsburgh, Pennsylvania, USA.  
+The bridge was designed by Gustav Lindenthal, the engineer who later designed the Hell Gate Bridge in New York City. The Smithfield Street Bridge was built between 1881 and 1883, opening for traffic on March 19, 1883.\[citation needed\] It was widened in 1889 and widened again in 1911\. The bridge has been designated a National Historic Civil Engineering Landmark, a National Historic Landmark, and has a Historic Landmark Plaque from the Pittsburgh History and Landmarks Foundation.
+
+**History**
+
+The present bridge is the third bridge at the site. It remains the second oldest steel bridge in the United States.\[citation needed\] In 1818, a wooden bridge was built across the Monongahela by Louis Wernwag at the cost of $102,000. This bridge was destroyed in Pittsburgh's Great Fire of 1845\. The second bridge on the site was a wire rope suspension bridge built by John A. Roebling. Increases in bridge traffic and river traffic eventually made the lightly built bridge with eight short spans inadequate. The Lindenthal bridge was built in its place, using the Roebling bridge's stone masonry piers.  
+The Smithfield Street Bridge is the penultimate of the many bridges that span the Monongahela before the river joins with the Allegheny River to form the Ohio River at Downtown Pittsburgh. Only the Fort Pitt Bridge is farther downstream.  
+The bridge also served the Pittsburgh Railways streetcar system with lines coming from the Mt. Washington Transit Tunnel and from Carson Street, crossing the bridge and continuing into downtown along Grant Street and Smithfield Street, returning to the bridge via Wood Street or Grant Street. The tracks occupied the eastern half of the bridge. The streetcar line was abandoned in July 1985, when the streetcars were diverted to the Panhandle Bridge and the new light rail subway, on July 7.\[5\] The last day of streetcar service on downtown Pittsburgh streets and over the Smithfield Street Bridge was July 6, 1985, although the final crossing of the bridge by a streetcar did not take place until 1:40 a.m. on July 7.\[6\] The former streetcar right-of-way was converted into a paved roadway for northbound traffic.  
+The bridge was listed on the National Register of Historic Places on March 21, 1974\. Two years later, on May 11, 1976, it was designated a National Historic Landmark.\[4\]  
+The bridge's short clearance from the river and its deteriorated condition convinced PennDOT officials to demolish and replace it with a modern bridge. Officials considered lobbying by the Pittsburgh History and Landmarks Foundation on preserving the bridge. In 1994–1995 the bridge was rehabilitated with a new deck, a colorful paint scheme, and architectural lighting. The abandoned rail lines became an extra traffic lane, and a light-controlled bus lane was added during peak traffic hours.\[7\] The bridge also has the distinction of being the bridge most heavily walked by pedestrians, mostly commuters who park at Station Square.  
+The bridge connects Smithfield Street in Downtown Pittsburgh with Station Square  
+**Sophie Masloff**
+
+Sophie Masloff (née Friedman; December 23, 1917 – August 17, 2014\) was an American politician. A long-time member of the Democratic Party and civil servant, she was elected to the Pittsburgh City Council and later served as the mayor of Pittsburgh from 1988 to 1994\. She was the first and to date only woman and the first Jew to hold that office.
+
+**Early life**  
+Masloff was born Sophie Friedman on December 23, 1917 to Romanian Jewish parents Jennie and Louis Friedman in the Hill District of Pittsburgh, Pennsylvania. Her father, an insurance salesman, died when she was two years old. She had two sisters and a brother from her mother's previous marriage. She spoke only Yiddish until she began attending elementary school. She graduated from Fifth Avenue High School in 1935, and began a job as clerk in the Allegheny County Court of Common Pleas in 1938, where she stayed for 38 years.
+
+**Political career**  
+City council  
+Masloff was elected to the Pittsburgh City Council in 1976\. As one of two females on council in the 1970s she was often witness to Councilwoman Michelle Madoff's colorful arguments. After a years long fight by Madoff to have the one restroom that was available to City Council at the Pittsburgh City Hall redesigned to be used in a uni-sex fashion Masloff was invited to a "toilet party" by Madoff to celebrate her success. Masloff did not attend, later commenting to the press: "What the hell do I care about her toilet? I got more important things to do."\[8\]  
+In January 1988, Masloff was elected president of the city council. Just four months later, mayor Richard Caliguiri died in office on May 6, 1988\. According to the city charter, the city council president stood first in the line of succession, so Masloff automatically became mayor.
+
+**Pittsburgh mayor**  
+Masloff served out the remainder of Caliguiri's term, and was unopposed in a bid for a full term in November 1989\. She was the first woman and the first Jew to hold the post.\[9\] She once referred to the rock band The Who as "The How,"\[10\] among many other rehearsed malapropisms.  
+Masloff's administration was forced to deal with problems such as urban decay, a shrinking industrial sector, and crumbling infrastructure.  
+She was the first public figure to suggest that the city's baseball and football teams each have their own stadiums. Her vision was eventually implemented years after she left office. The success of retro-style ballparks such as Cleveland's Jacobs Field and Baltimore's Camden Yards eventually led to the building of PNC Park and of Heinz Field, a separate football stadium.  
+Masloff made fiscal responsibility the centerpiece of her term in office. During her administration, she privatized numerous costly city assets including the Pittsburgh Zoo, the National Aviary, Phipps Conservatory, and the Schenley Park Golf Course. She and the city council were sued by city controller Tom Flaherty for cutting $506,000 from his 1992 budget.
+
+**Pittsburgh Steelers History**
+
+The Pittsburgh Steelers were founded by Arthur J. Rooney on July 8, 1933\. Now the seventh-oldest franchise in the NFL, the Pittsburgh team was known as the Pirates until 1940\. The Steelers struggled for their first 40 years without winning a championship of any kind until they won the AFC Central division title in 1972\. Two years later, the entire sports world cheered when Art Rooney, one of world's most popular sports figures, received the Vince Lombardi Trophy after the Steelers' victory in Super Bowl IX.
+
+After so many years of frustration, the 1970s Steelers began one of the most incredible streaks in sports history when they earned eight consecutive playoff berths, seven AFC Central titles and four AFC championships from 1972 to 1979\. The Steelers became the first team to win four Super Bowls and the only team to win back-to-back Super Bowls twice. The team of the decade of the 1970s became the first AFC team to win its division 10 times since the NFL's 1970 merger.
+
+The list of Pittsburgh Steelers heroes of the 1970s is long but it begins with Head Coach Chuck Noll, who took control of the team in 1969\. Such stars as defensive tackle Joe Greene, linebackers Jack Ham and Jack Lambert, quarterback Terry Bradshaw, cornerback Mel Blount and running back Franco Harris were the backbone of a team that many insist was the finest ever in pro football. All, including Noll, were accorded membership in the Pro Football Hall of Fame in their first years of eligibility.
+
+Pittsburgh's success in the 1970s was the antithesis of the Steelers' experiences in their early years. The Pittsburgh eleven won only 22 games its first seven seasons. Rooney, seeking a way to make ends meet, often took his team from Forbes Field to such neutral cities as Johnstown and Latrobe in Pennsylvania, Youngstown, Louisville and New Orleans so as to avoid competition with baseball and college football in Pittsburgh. Through it all, Rooney never wavered in his determination to make pro football successful in his city.
+
+In 1938, Rooney made Colorado All-America Byron "Whizzer" White the NFL's first "big money" player with a $15,800 contract. The 1942 Steelers, boosted by the NFL-leading rushing of rookie Bill Dudley, enjoyed their first winning season. With rosters depleted by the manpower shortage of World War II, Rooney merged the Steelers with the Eagles (Phil-Pitt) in 1943 and the Cardinals (Card-Pitt) in 1944\. Coach Jock Sutherland led the Steelers to a first-place tie with the Philadelphia Eagles in 1947 but they lost their first postseason game ever to the Eagles, 21-0.
+
+From 1957 to 1963, the Steelers, coached by Buddy Parker and with quarterback Bobby Layne, defensive tackle Ernie Stautner and running back John Henry Johnson playing key roles, were legitimate divisional championship contenders. But the "dynasty years" that coincided with the move to the AFC at the time of AFL-NFL merger, forever brightening Pittsburgh Steelers history, were still a decade away. The Steelers became the third team to win five Super Bowls after they defeated the Seattle Seahawks in Super Bowl XL. The 2005 wild-card Steelers, led by coach Bill Cowher, also became the first wild-card team in history to win three playoff road games and the Super Bowl.
+
+Following the 2006 season, Cowher resigned and was replaced by Mike Tomlin, who in his second season led the team to victory in Super Bowl XLIII. The win marked their sixth championship in franchise history as the Steelers became the first team to win six Super Bowls. Over the course of the next 16 seasons, Tomlin would continue to find great success with the Steelers, establishing an overall record of 163-93-2 (start of 2023 season).
+
+The Pittsburgh Cultural Trust is a non-profit organization dedicated to bringing you quality arts, entertainment, and education programs at affordable prices. The following are official Pittsburgh Cultural Trust sources to purchase tickets to our events and programs:
+
+Pittsburgh Cultural Trust Official Ticket Source: TrustArts.org
+
+By Phone: 412-456-6666; 412-456-4800 for PNC Broadway in Pittsburgh events; Season Tickets 412-456-1390; Group Sales 412-471-6930
+
+In Person: At the Venue Box Office or at Theater Square located at 655 Penn Avenue in Downtown Pittsburgh
+
+We highly recommend that patrons purchase from official ticket sources for the best seats, best service, and best price.  
+
+WHEN TICKETS ARE PURCHASED FROM UNOFFICIAL SOURCES:
+
+You pay more than face value.
+
+Your tickets may not be real
+
+Your tickets cannot be replaced when lost or stolen.
+
+We cannot contact you with crucial information on show cancellations, time changes, road closures or traffic updates, upcoming shows or other useful information.
+
+You are not directly supporting a non-profit organization.
+
+You are contributing to a practice that makes it harder for true fans to see their favorite shows without paying a premium charge.
+
+Tickets purchased from unofficial sources are done so at a risk. By purchasing only from the official source you are assured that the ticket you receive is valid and is being sold to you at current face value.
+
+Ticket Resale Policy
+
+Tickets purchased from official ticket sources cannot be resold, transferred or distributed to any ticket broker or any other person or entity for resale above the face value of the ticket. Should it come to the Pittsburgh Cultural Trust's attention that a ticket purchaser is a ticket broker, all current and future orders may be cancelled without notice or justification of action. The Pittsburgh Cultural Trust reserves the right to deny admission to any person with a ticket obtained in violation of these terms.
+
+NEED HELP?
+
+Please feel free to contact us at 412-456-6666, or visit our contact page.
+
+How can I order tickets?
+
+There are many ways to order tickets to Cultural Trust events.
+
+Purchase tickets online at TrustArts.org or CulturalDistrict.org
+
+Call 412-456-6666
+
+Visit the Box Office at Theater Square, 655 Penn Avenue
+
+Learn about the benefits of ordering from the official ticket source \>\>\>
+
+Where can I find more information about Season Tickets and Subscriptions?
+
+Please review our Season Ticket FAQ page.
+
+Where can I find more information about Group Tickets?
+
+Find more Group Ticket information in this FAQ.
+
+What is your policy regarding ticket resale?
+
+As a non-profit organization, the Pittsburgh Cultural Trust is dedicated to making tickets as affordable as possible for all audiences. Tickets purchased from official ticket sources cannot be resold, transferred or distributed to any ticket broker or any other person or entity for resale above the face value of the ticket. Should it come to the Pittsburgh Cultural Trust's attention that a ticket purchaser is a ticket broker, all current and future orders may be cancelled without notice or justification of action. The Pittsburgh Cultural Trust reserves the right to deny admission to any person with a ticket obtained in violation of these terms.
+
+What is Ticket Protection by Booking Protect?
+
+The Pittsburgh Cultural Trust has partnered with Booking Protect to provide you peace of mind with your ticket purchase. We recommend adding Ticket Protection by Booking Protect to your order, as without it all tickets are non-refundable.
+
+Ticket Protection costs just 7% of your order total and allows you to apply for a full refund should you or anyone in your party be unable to attend due to a qualifying reason such as: contracting COVID-19 (with doctor's note), a family member contracting COVID-19 (with doctor's note), being high-risk with the advice of a doctor not to attend (with doctor's note), other illness, family emergency, or inclement weather. More details here.
+
+Claim a refund up to 45 days after your performance date through a simple process exclusively on the Booking Protect website at refund.bookingprotect.com. By adding Ticket Protection to your order, you are agreeing to Booking Protect's Terms of Service here.
+
+Why can't I print my Print at Home Tickets?
+
+Please review our Print at Home Ticket FAQ page.
+
+What should I do if I lose my tickets?
+
+Call 412-456-6666 and we will make duplicates and hold them at our Box Office for pick-up. There is a reprint fee of $2.00 per ticket.
+
+What time do theater doors open for a performance?
+
+The doors to the theater lobbies typically open 1 hour prior to curtain. However, presenters may open the auditorium doors at their discretion.
+
+Is there a dress code for The Trust's theaters?
+
+While many patrons prefer to wear suits and dresses, others dress more casually. Above all, dress comfortably.
+
+What is the number for the Lost and Found?
+
+If you lost or misplaced an item in any of our theaters or in Wood Street Galleries, please call our 24 hour campus security desk at 412-456-2610. For lost or misplaced items at the O'Reilly Theater, please call 412-316-8200.
+
+What is the food and drink policy for Cultural Trust theaters?
+
+No outside food or beverages are permitted in our venues. Beverages and snacks are available in all theaters prior to the show and at intermission. Spill-proof containers are available for purchase at most venues to enjoy your refreshments during the performance.
+
+Are there coat checks?
+
+Coat checks are made available to suit weather conditions.
+
+Is there a contact number I can leave members of my family at home in case of an emergency?
+
+You can leave your name, seat location and show you are attending with your babysitter at home with instructions to call these numbers in case of emergency: Benedum Center and Byham Theater: 412-456-2610; Harris Theater: 412-471-9702; O'Reilly Theater: 412-316-8222; Wood Street Galleries: 412-471-5605, Ext. 5
+
+Are your theaters accessible?
+
+We have wheelchair accessible seating and restrooms on the orchestra levels. Patrons with special needs should notify the Box Office when purchasing tickets. More accessibility information \>\>\>
+
+Are there any devices to help the hearing impaired?
+
+Infrared assistive listening devices are available in all theaters. Ushers can direct you to the guest services location. More accessibility information \>\>\>
+
+Do your theaters have elevators?
+
+The Benedum Center elevator is located to the right of the main lobby and accesses all levels. The Byham Theater elevator is located at the top of the entrance lobby, to the left. Access is provided to the lower lobby (restrooms and coat room), and to the top of the balcony only. The Harris Theater has accessible seating and restroom on the main floor, but does not have an elevator to the second floor balcony or the lower lobby restrooms. The O'Reilly Theater elevator is located to the left of the main entrance lobby and accesses all levels. The Wood Street Galleries elevator accesses all levels.
+
+How are the seats numbered in the theaters?
+
+Benedum and Byham seats are numbered sequentially in the Center sections (101, 102, 103...) but in the Left sections the seats are odd numbers and in the Right sections the seats are even numbers. At the Benedum, for example, the Right Center section starts as follows: 22, 24, 26, etc. The Left Center section starts as follows: 21, 23, 25, etc. Ushers are available at every theater to direct you to your seats. View seating charts here\>\>\>
+
+What is your child seating policy?
+
+Policies vary per presenter, event and venue. Please review the child policy on your event's information page for show specific information.
+
+All children attending a performance must have a ticket. Tickets may not be purchased for children under the age of 3 years and such children will not be admitted. Any ticket for a child must be for a seat next to the seat occupied by the adult accompanying the child. Children under 12 years must be accompanied by an adult. Children disturbing the enjoyment of other theater patrons may be removed from the venue at the discretion of the theater’s management. No refund will be given.
+
+What is your bag policy?
+
+ A guest to a Pittsburgh Cultural Trust venue or event may enter with one bag that is no larger than 16” x 16” x 8”. The definition of a bag includes, but is not limited to, purses, tote bags, duffel bags, suitcases, knapsacks, backpacks, packages, cartons, paper sacks, briefcases, portfolio cases, binocular cases, camera equipment cases, and any other type of device or vessel used for carrying or concealing items. Bags are subject to search and theatergoers may be requested to open their jackets prior to entering. Guests with prohibited items may return them to their vehicles. Unattended items left outside the facility doors will be discarded to ensure patron safety. Read more about Safety & Security measures.
+
+Do you sell gift cards?
+
+Gift cards are available for all shows in the Cultural District in any money denomination. These gift cards can be purchased online, by phone, or in person at the Box Office.
+
+**Pittsburgh Restaurant Week**
+
+Winter 2025: Monday January 13 to Sunday January 19
+
+**The UPMC Rink at PPG Place**
+
+Nov. 17, 2023-Jan. 7, 2024
+
+Create smiles and memories when you skate at The UPMC Rink at PPG Place. Since 2001, this rink has been a staple attraction in Downtown Pittsburgh during the holidays.
+
+**Pennsylvania Station**
+
+Pennsylvania Station (often abbreviated to Penn Station) was a historic railroad station in New York City that was built for, named after, and originally occupied by the Pennsylvania Railroad (PRR). The station occupied an 8-acre (3.2 ha) plot bounded by Seventh and Eighth Avenues and 31st and 33rd Streets in Midtown Manhattan. As the station shared its name with several stations in other cities, it was sometimes called New York Pennsylvania Station. Originally completed in 1910, the aboveground portions of the building were demolished between 1963 and 1966, and the underground concourses and platforms were heavily renovated to form the current Pennsylvania Station within the same footprint.
+
+Designed by McKim, Mead, and White and completed in 1910, the station enabled direct rail access to New York City from the south for the first time. Its above ground head house and train shed were considered a masterpiece of the Beaux-Arts style and one of the great architectural works of New York City. Underground, the station contained 11 platforms serving 21 tracks, in approximately the same layout as the current Penn Station, which has had various intervening modifications. The original building was one of the first stations to include separate waiting rooms for arriving and departing passengers, and when built, these were among the city's largest public spaces.
+
+Passenger traffic began to decline after World War II, and in the 1950s, the Pennsylvania Railroad sold the air rights to the property and shrank the railroad station. Starting in 1963, the above-ground head house and train shed were demolished, a loss that galvanized the modern historic preservation movement in the United States. Over the next six years, the below-ground concourses and waiting areas were heavily renovated, becoming the modern Penn Station, while Madison Square Garden and Pennsylvania Plaza were built above them. The sole remaining portions of the original station are the underground platforms and tracks, as well as scattered artifacts on the mezzanine level above it.
+
+**Design**
+
+Occupying two city blocks from Seventh Avenue to Eighth Avenue and from 31st to 33rd Streets, the original Pennsylvania Station building was designed by McKim, Mead & White.\[3\]\[4\]\[5\]\[6\] The overall plan was created by Charles Follen McKim.\[7\] After McKim's health declined, William Symmes Richardson oversaw the completion of the design, while Teunis J. Van Der Bent oversaw the engineering.\[8\]\[7\]\[9\] Covering an area of about 8 acres (3.2 ha), it had frontages of 788 feet (240 m) along the side streets and 432 feet (132 m) long along the main avenues.\[4\]\[5\]\[a\] The land lot occupied about 800 feet (240 m) along 31st and 33rd Streets.\[10\]
+
+Over 3,000,000 cubic yards (2,300,000 m3) of dirt had been excavated during construction.\[7\]\[11\]\[12\] The original structure was made of 490,000 cubic feet (14,000 m3) of pink granite, 60,000 cubic feet (1,700 m3) of interior stone, 27,000 short tons (24,107 long tons; 24,494 t) of steel, 48,000 short tons (42,857 long tons; 43,545 t) of brick, and 30,000 light bulbs.\[11\]\[12\] The superstructure consisted of about 650 steel columns.\[8\] The building had an average height of 69 feet (21 m) above the street, though its maximum height was 153 feet (47 m).\[13\] Some 25 acres (10 ha)\[6\] or 28 acres (11 ha)\[14\] of track surrounded Penn Station.\[14\]\[6\] At the time of Penn Station's completion, The New York Times called it "the largest building in the world ever built at one time".\[15\]
+
+**Exterior**
+
+The exterior of Penn Station was marked by colonnades of Roman unfluted columns based on the Classical Greek-style Doric order. These columns, in turn, were modeled after landmarks such as the Acropolis of Athens.\[2\]\[16\] The rest of the facade was modeled on St. Peter's Square in Vatican City, as well as the Bank of England headquarters.\[2\]\[16\]\[17\] The colonnades embodied the sophisticated integration of multiple functions and the circulation of people and goods.\[4\] The colonnades had a strong horizontal orientation, interrupted only by the lunette windows and the roof of the waiting room. The ornamentation was intentionally simple, with emphasis being placed on the "unity and simplicity" of different parts of the design.\[18\] The roof was made of Monel alloy, an Inco product.\[19\]
+
+**Entrances and colonnades**
+
+The building had entrances from all four sides.\[4\]\[10\] The main entrance was at the intersection of Seventh Avenue and 32nd Street, at the center of the Seventh Avenue facade.\[10\] It was the most elaborate of Penn Station's entrances.\[4\] Above the center of the entrance, 61 feet (19 m) above the sidewalk, was a clock with 7-foot-diameter (2.1 m) faces.\[10\] Two plaques were placed above the arcade entrance. One plaque contained inscriptions of the names of individuals who had led the New York Tunnel Extension project, while the other included carvings of franchise dates and the names of contractors.\[15\]\[20\]
+
+Twin 63-foot-wide (19 m) carriageways at the northeast and southeast corners, modeled after Berlin's Brandenburg Gate, led to the two railroads served by the station.\[21\]\[15\] One carriageway ran along the north side of the building, serving LIRR trains, while the other the south side served PRR trains.\[15\] The walls of each carriageway were flanked by pilasters for a distance of 279 feet (85 m).\[21\] Ramps spanned the carriageways and led into the waiting room and concourse.\[21\]\[22\] The carriageways descended to the exit concourse at the middle of the station. From there, vehicles could travel to the baggage drop on the eastern end or return to Seventh Avenue. A separate passageway along the south side of the station carried baggage to the Eighth Avenue end of the station.\[23\]
+
+An open colonnade was used along the north, east, and south facades.\[24\]\[21\] The entirety of the east facade had a Doric-style colonnade.\[10\]\[25\] The easternmost portions of the north and south facades, adjacent to the carriageways, also contained 230-foot-wide (70 m) colonnades.\[15\]\[21\] Each column measured 35 feet (11 m) high by 4.5 feet (1.4 m) across.\[10\]\[4\] The remainder of the facade contained pilasters rather than columns.\[24\]\[21\]\[25\] An approximately 45-foot-wide (14 m) section of the Eighth Avenue facade was divided into three large openings, which comprised a large rear entrance to the main concourse.\[21\]
+
+The station contained four pairs of sculptures designed by Adolph Weinman, each of which consists of two female personifications, Day and Night. These sculptural pairs, whose figures were based on model Audrey Munson, flanked large clocks on the top of each side of the building.\[26\]\[27\] Day was depicted with a garland of sunflowers in her hand, looking down at passengers, while Night was depicted with a serious expression and a cloak over her head.\[28\] The Day and Night sculptures were each accompanied by two small stone eagles.\[29\] There were also 14 larger, freestanding stone eagles placed on Penn Station's exterior.\[30\]
+
+**St. Stanislaus Kostka Church in Pittsburgh**
+
+St. Stanislaus Kostka Church in Pittsburgh, Pennsylvania, referred to in Polish as Kościół Świętego Stanisława Kostki, is a historic church of the Roman Catholic Diocese of Pittsburgh. Located in the Strip District in Pittsburgh, Pennsylvania, United States, it is a prime example of the so-called 'Polish Cathedral' style of churches. It is known also as 21st and Smallman Street Church. It is listed on the U.S. National Register of Historic Places.
+
+**History of Saint Stanislaus Kostka**
+
+The congregation was formed in 1873 when 200 Polish families banded together to form the St. Stanislaus Kostka Beneficial Society. The first pastor was Antoni Klawiter, who arrived in October 1875 and left in 1877\. The availability of unskilled mill jobs in Pittsburgh in the late 19th century attracted a flood of immigrants from Eastern Europe. By 1915, more than 80% of Strip District residents were foreign-born, and 30% were Polish. St. Stanislaus Kostka Church was constructed in 1891, designed by Pittsburgh architect Frederick C. Sauer (1860–1942).
+
+In March 1936 there was a disastrous flood on Saint Patrick's Day. Water flooded the church as high as the top of the wainscoting on the walls. The pews were afloat and the Pastor was trapped in the rectory on the second floor. In December 1936, an explosion at the Pittsburgh Banana Company weakened the towers and the original baroque style bonnets were removed. Examples of the bonnet style are still found on the top of the sidewall pilasters and the ventilation cupola on the center of the roof. Three of the medallion windows over the altars were also covered over.
+
+On September 20, 1969, Cardinal Karol Wojtyła, the future Pope John Paul II, visited and offered prayers at St. Stanislaus Kostka. After cordial greetings, the Cardinal is quoted as commenting on how beautiful the church was and how it reminded him of the churches in Poland. He knelt in prayer before the Blessed Sacrament and then to the Side Altar of the Blessed Virgin Mary, now the location of a humble memorial to the Pope.
+
+**Architecture of Saint Stanislaus Kostka**
+
+Saint Stanislaus Kostka's architectural style is a blend of Romanesque and Baroque, with Byzantine influences. Construction of the present Saint Stanislaus Kostka church was started in April 1891, and the church was consecrated on July 31, 1892\. The church is a one-story brick edifice covering an area of 8,337 square feet (774.5 m2). The church is built on the ground surface, and there is no basement. The walls are from 17 to 21 inches (430 to 530 mm) thick. The church measures 67 feet (20 m) wide and 105 feet (32 m) deep and stands 63 feet (19 m) high.\[3\] In 1936, the church endured flood and explosion damage.
+
+The twin towers support a total of seven bells. The right tower holds the St. Michel bell 2,500 lb (1,100 kg), the St. Barbara bell 1,200 lb (540 kg) and the St. Anthony bell 750 lb (340 kg). The left tower holds the St. Casimer bell 1,800 lb (820 kg), the St. Joseph bell 1,000 lb (450 kg), the St. Rosa bell 750 lb (340 kg) and the St. Stanislaus bell 550 lb (250 kg). Five of these bells were electrified in 1956\.
+
+The stained glass figure windows were produced in Munich, Germany, at the Royal Bavarian Art Institute at a cost of $27,672—a major expenditure for that time. Compared with today's dollar value it would cost almost $538,000. According to experts, the windows in the Saint Stanislaus Kostka Church are some of the best period "Munich Style" stained glass in the United States.
+
+There are three Latin inscriptions in the church interior.
+
+On the front of old main altar: Se Nascens Deditsocium "By his birth He offers himself as a companion"
+
+On the altar canopy: Se Moriens In Praetium "Dying, he offers himself as victim."
+
+On the window over the altar canopy: Se Regnans Dat In Praemium "Reigning, He offers himself as a reward."
+
+On the Christ the King center window above the crown, in Christ's hand is a banner which reads: Qui Vicerit Dabei Sedere, Mecum In Throno Meo "He who has conquered (God) will grant you to sit with me on my throne"
+
+The original interior also did not have the murals we see today as the murals have changed over the years. The current paintings in the semi-dome over the altar were done by the Italian artist, Vincent Scatena and were completed for the Golden Jubilee of the parish in 1925\.
+
+**Bridge of Sighs**
+
+Description
+
+A view of Ross Street at Fourth Avenue, looking northeast towards the Bridge of Sighs. The Bridge of Sighs connects the Allegheny County Jail (right) with the Allegheny County Courthouse and was named after the famous bridge of the same name in Venice. This courthouse is actually the third Allegheny County Courthouse to be built in downtown Pittsburgh. The first was built in the Market Square area. In 1841, a new courthouse was built on the site of the present building. On May 7, 1882, this second courthouse was destroyed by fire. County commissioners created a competition and issued letters requesting architects to submit designs for a new courthouse. The winning design was entered by Henry Hobson Richardson. The jail was completed in 1886 and the courthouse was completed two years later. In 1995, the Allegheny County Jail was closed and renovated to become the new home of the Juvenile and Family sections of the Common Pleas Court. The building seen on the right is the County Office Building.
+
+**The history of Pittsburgh’s Mellon Institute — and the mystery of the extra buried column**
+
+In Pittsburgh’s Oakland neighborhood, there’s a massive temple to science. For nearly a century, the Mellon Institute has been a top research facility, helping to study air quality, create skinless hotdogs and even frozen orange juice.
+
+The institution was first imagined by brothers Andrew and Richard Mellon in the early 1900s, inspired by a young chemistry professor named Robert Kennedy Duncan. As the United States’ economy — and especially Pittsburgh — became increasingly reliant on manufacturing, Duncan started creating fellowships for scientists who wanted to make an impact and improve upon the way these industries functioned.
+
+“Applied science, not theoretical science,” said Paul Tellers, an architect who spent many years with Carnegie Mellon University, where he became familiar with the Mellon Institute’s history. “The Mellon brothers wanted to put their money on industrial development and they thought the way Duncan was doing it — with these fellowships — was a really good idea.”
+
+After meeting in 1910, Duncan and the Mellons started the Industrial Fellowship Program through the University of Pittsburgh at a temporary laboratory at Thackeray and O’Hara Streets. According to a 1994/95 edition of “Pittsburgh History” by Cathy Wilson called “Building a Temple of Science: Pittsburgh’s Mellon Institute,” scientists were recruited to work on contracts. During that time, they’d try to solve problems manufacturers were encountering, be it in their workflow or the technology they were using.
+
+The program was a success. In the years following, more and more research was commissioned and more and more scientists became interested in working at the Mellon Institute. It was incorporated as a nonprofit in 1927, and the Mellon brothers decided it was time to expand. They purchased a plot of land next to where the Cathedral of Learning was being constructed, and tapped Benno Jansen to be their architect.
+
+“He did some amazing institutional architecture \[including\] the Pittsburgh Athletic Association, the Masonic Temple and the William Penn Hotel,” Tellers said.
+
+The brothers wanted to make sure the building was state-of-the-art inside, and showed the grandeur of the operation on the outside. They decided to go with a Greek Parthenon model, specifically a peristyle-type building with 62 columns on all four sides.
+
+“They had two big decisions to make early on,” Tellers said. “First, the building must be the most advanced scientific workshop that modern knowledge could provide. And then the second thing — you might think was almost in conflict with this: It must be beautiful as a tribute to science.”
+
+With Grecian architectural roots nodding to the civilization’s historic scientific accomplishments and other nearby grand structures like the Carnegie Library, Museum of Natural History and Museum of Art, the Mellon Institute’s design would be in line with Oakland’s development at the time.
+
+It’s a massive structure. “They built four floors below ground and four above that,” Tellers said. “Each column is 36.5 feet tall and nearly six feet in diameter at the bottom. They were quarried from 125 ton blocks of limestone brought from Indiana.”
+
+Because of Andrew Mellon’s investment in the company that would later become Alcoa, aluminum was the primary metal used throughout the building.
+
+“The many windows and doors and door hardware and you see the beautiful elevator doors are all beautifully crafted of aluminum to display Alcoa products,” said Tellers.
+
+Inside, many laboratories were fitted with what was the most modern technology, but many labs were left empty, according to Emily Davis the collections archivist at Carnegie Mellon University Archives.
+
+“They knew the institute would grow,” said Davis. “They also knew that the way science was conducted and what the laboratories needed to look like would evolve.”
+
+Because of the contract-based work with industries in all fields, the work conducted at the Mellon Institute (which was actually called the Mellon Institute for Industrial Research until it was shortened to “Mellon Institute in 1962”) was varied. There was a focus on chemistry, physics, biology and engineering — and how they could tangibly help manufacturers, communities and even the U.S. military.
+
+“Research that was taking place there included working with synthetic rubber for things like sleeping bag fill for the Navy or the Army,” Davis said.
+
+The first gas mask used in World War I was developed at the Institute; researchers began studying the cause and impact of air pollution on Pittsburgh; and edible items like breakfast cereals, edible gelatins and beverage flavors were also developed there over the years. Until 2006, the Pittsburgh Supercomputing Center called Mellon Institute home.
+
+**Courts – Civil, Criminal, Family, Municipal & Orphans**
+
+The Courthouse which can be found at 436 Grant Street was erected in 1884 under the direction of Henry Hobson Richardson. The current courthouse is actually the third courthouse of Allegheny County. The first of which was built of wooden was replaced in 1841 with a much sturdier structure made of gray sandstone. The poor construction lead to corrosion caused by coal smoke. In the spring of 1882, a fire broke out and ruined the building. The current courthouse is built with large rusticated blocks of granite making for a heavy, stable dignified appearance.
+
+**Civil Court**
+
+Civil Division, located at 414 Grant Street, City County Building 7th and 8th floor.
+
+The Civil Division cases involve Mortgage foreclosures, Landlord tenant issues, Name changes, Medical Malpractice, Vehicle accidents, Slip and fall accidents, Credit Card debt etc.
+
+Sheriff Deputies are on the 7th and 8th floor to ensure that there is no conflict between parties of any kind. The Sheriff’s Office does maintain a level of security awareness in the Civil division.
+
+**Criminal Court**
+
+It is the responsibility of Criminal Court to adjudicate all criminal charges brought in Allegheny County. The role of the Sheriff in the Criminal Court System is an important one. Deputy Sheriffs are assigned to courtrooms and have the responsibility of maintaining custody of incarcerated defendants who are required to appear before the Court.
+
+In many cases more than one Deputy may be required to maintain security, depending on the particular circumstances of each individual trial. At times, as many as a dozen deputies have been assigned to a Courtroom.
+
+**Family Court**
+
+The Adult Section of Family Court, located at 440 Ross Street, Pittsburgh, has jurisdiction in family matters which involve such types of cases as non-support of spouses, indigent parents and children, complaints of custody or visitation rights, divorces and annulments and protection from abuse.
+
+Sheriff’s deputies provide security in all courtrooms and counseling offices, and they process, detain and escort to court all individuals who have been arrested by the Sheriff’s Office, or those who respond to a notice by the Sheriff to appear in court.
+
+This area of the Court is a very sensitive one due to the nature of the circumstances which bring individuals to the Court. Emotions usually run high, and tempers are easily ignited in such an atmosphere. For this reason, Deputies assigned to this section are selected for their abilities to exercise tact and understanding in the performance of their duties.
+
+For the same reasons, the Sheriff’s Office maintains a high level of security awareness in this division. All persons entering the Family Court facilities are required to first pass through a security checkpoint, including a walk-through metal detector.
+
+**Municipal Court**
+
+The Sheriff’s Office has the responsibility to provide security services to “Night Court” in the Municipal Courts Building.
+
+During normal Monday through Friday working hours, police officers outside the City of Pittsburgh take arrested persons to the local District Justice for arraignment. During all other hours and on weekends, police officers take arrested persons to Night Court for arraignment. Night Court is currently located in the Municipal Courts Building in downtown Pittsburgh.
+
+The Municipal Courts Building opened in mid-December 1995\. Tenants include Arraignment Court, City Court, Domestic Violence Court, Housing Court, Night Court, Traffic Court, the City Police Radio Room and ID Administration.
+
+Night Court is administered by the County and was allocated space under terms of a 1991 Cooperation Agreement between the City, the County, the URA and the Public Parking Authority.
+
+In July 1995, the Pennsylvania Supreme Court compelled all counties to provide 24-hour arraignment services. Night Court meets the conditions of the Court’s order.
+
+It was agreed that the County would provide security arrangements for Night Court. Security includes security within the courtrooms, security in transfer of arrested persons during the arraignment process, and first response in the event of an emergency or disturbance. Inasmuch as the Sheriff’s Office is the traditional law enforcement arm of the courts, this responsibility was given to the Sheriff’s Office from 4:00 PM to 8:00 AM on Monday through Friday, and 24-hours a day on all weekends and holidays.
+
+**Juvenille Court**
+
+This branch of the Court handles cases involving individuals under the age of 18\.
+
+Deputies assigned to Juvenile Court are responsible for the transportation of in-custody juveniles between Shuman Center and the Court, which is located in the Family Court Facility, 440 Ross Street, Pittsburgh. Along with maintaining the safety and security of all Court participants, deputy sheriffs also transport juveniles to and from various detention facilities throughout Pennsylvania
+
+**Orphans Court**
+
+Under special circumstances the Sheriff’s Office may be required to provide security in Orphans Court, or to present before the Court individuals who are to be considered for involuntary, court-ordered commitment to various hospitals or institutions, or who are appearing in cases where a determination will be made as to adult competency or the termination of parental rights.
+
+**Hillman Hall of Minerals and Gems**
+
+Hillman Hall of Minerals and Gems invites you to appreciate the wild variety and beauty of minerals and gems. This exhibition artfully displays more than 1,300 specimens from all over the world that come in a large range of striking colors, fascinating forms, and dramatic shapes. Hillman Hall has gained an international reputation as one of the finest and most important mineral exhibitions in the country.
+
+Admire the bright green, mossy like texture of a pyromorphite specimen or find out what causes the delicately hued colors in massive pieces of quartz. Learn about minerals that make up everything from table salt to diamond rings, or check out some tools that mineralogists use like microscopes and Geiger counters. Watch how some minerals are transformed in ultraviolet light or get lost in the Masterpiece Gallery taking in each unique specimen.
+
+Hillman Hall displays highlight systematics, mineral localities, pseudomorphism, and more with a special section dedicated to Pennsylvania’s mineralogical diversity.
+
+**Mitchell Tenpenny: Woke Up In A Dream Tour**
+
+Mitchell Tenpenny, Dylan Schneider Stage AE
+
+Pittsburgh, PA
+
+October 24 Thursday 7:00PM
+
+Doors Open
+
+Indoors
+
+**Robert Morris University Colonials Mens Hockey vs. Lindenwood University Lions Hockey**
+
+Date: Fri • Nov 01, 2024 • 7:00 PM
+
+VenueClearview Arena
+
+Pittsburgh, PA
+
+**Penguins to Host ‘Pittsburgh Night’ on November 2 Against the Montreal Canadiens**
+
+The Penguins will celebrate the city of Pittsburgh’s uniqueness by hosting ‘Pittsburgh Night’ presented by U. S. Steel on Saturday, November 2 against the Montreal Canadiens at PPG Paints Arena. Puck drop is set for 7:00 PM, with doors opening at 5:30 PM.
+
+The first 7,500 fans in attendance will receive a special Pittsburgh Night Rally Towel courtesy of U. S. Steel.
+
+"U. S. Steel is an integral part of why Pittsburgh is known as the Steel City. It is only fitting that we honor that legacy as sponsor of Pittsburgh Night, celebrating the strength of the communities where we live and work," said Tara Carraro, U. S. Steel SVP & Chief Communications Officer.
+
+DJ Bonics, disc jockey for Pittsburgh-native Wiz Khalifa, will perform live pregame and during both intermissions. Other Pittsburgh-centric entertainment includes fan interaction with popular Pittsburgh mascots like Pirate Parrot, Steely McBeam and Amo from the Riverhounds.
+
+Pittsburgh’s own designer and creator, John Geiger, partnering with Aramark, will unveil his limited edition, exclusive merchandise drop at PensGear for the second-consecutive year.
+
+## **Penguins vs. Stars Tickets 2024**
+
+The 2024 NHL schedule is out, and it features a Penguins vs. Stars showdown.
+
+Buy Stars vs. Penguins tickets from Vivid Seats so you can be there when the puck drops.
+
+Shop with confidence knowing your tickets are backed by the Vivid Seats [**Buyer Guarantee**](https://www.vividseats.com/guarantee). Not only will you get legit tickets but when you buy 10 tickets, with [**Vivid Seats rewards**](https://www.vividseats.com/rewards) you get the 11th on us.
+
+Whether the game is at [**American Airlines Center \- TX**](https://www.vividseats.com/american-airlines-center-tx-tickets/venue/2116) or [**PPG Paints Arena**](https://www.vividseats.com/ppg-paints-arena-tickets/venue/8437), there's nothing like being there in person for a Pittsburgh Penguins vs. Dallas Stars game.
+
+Experience it live\!
+
+### **Recent Penguins \- Stars Games**
+
+* Oct 24, 2023 \- Dallas Stars at Pittsburgh Penguins (4-1) at [**PPG Paints Arena**](https://www.vividseats.com/ppg-paints-arena-tickets/venue/8437) ([**Pittsburgh**](https://www.vividseats.com/region/usa/pa/pittsburgh-tickets/14/sports))
+
+**Josh Gibson Heritage Park**
+
+He stood 6’1, 220 pounds. He hit a staggering .354 average and had 962 homers throughout a 17-season career, with single-season highs of .517 and 84, and he belonged to Pittsburgh.
+
+Playing for both the Pittsburgh Crawfords and Homestead Grays, he helped them to win more than a dozen Negro Leagues titles combined.
+
+On October 14, in a Grand Concourse Board Room in Station Square, the Josh Gibson Foundation held a conference to display the layout for the new Josh Gibson Heritage Park.
+
+Hall of Fame Negro League Election Committeeman Rob Ruck opened the speaking portion of the conference by explaining exactly what this park meant to him. “During the half century that baseball was divided by a color line Black America created its own parallel sporting world. During the 1930s and 40s Pittsburgh was the jewel in its crown.”
+
+Pittsburgh finally honored its rich tradition as far as Negro League accomplishments in 1988 when the Pirates became the first MLB team to celebrate and honor the Negro Leagues and apologize for segregation.
+
+“Luckily the Pirates are winning now but before then, we had 20 losing seasons so the kids never saw a winning baseball team. So what we would teach is the history of baseball and you can’t tell it without the Negro leagues,” said Sean Gibson, president of the Josh Gibson Foundation.
+
+Cool Papa Bell, Judy Johnson, Oscar Charleston, Satchel Paige, Cumberland Posey, Vic Harris and Buck Leonard will be among seven other Pittsburgh greats who will be remembered with paintings that will provide biographical and historical information about the players and their teams. Each one will be carefully painted by artist Dino Guarino. Above their enshrinement will be steel girders in homage of the Grays’ origin as a steelworkers’ team and for the city’s heritage as a steel town. The Crawford’s inherited their name from a Hill District bathhouse and recreation center but there are no plans to add any tubs.
+
+The Park will be located at Station Square on land donated by Forest City Commercial Group and will be free and open to the public and will allow visitors to relive the history and culture of Negro League baseball in Pittsburgh. The target date for the park to open is spring 2017\. Unfortunately, the $2.5 million price tag needed to finish it means that date is not set in stone.
+
+MISSION STATEMENT:
+
+The Josh Gibson Heritage Park Foundation realizes the tremendous value and positive influence of the Josh Gibson Legacy. This park is here to help educate, support, and preserve the story of Josh Gibson and the Negro Leagues. In addition, this will provide a resource to further connect to our community and others who visit the Pittsburgh area. By understanding the amazing achievements of these ball players, we hope to inspire our youth of today to strive for their own legacies and life fulfilling accomplishments.
+
+**In a world of scam immersive experiences, Mixtape delivers legitimate delights**
+
+When Viral Ventures contacted the owners of Mixtape, a bar and dance club in Garfield, about hosting an immersive experience, the arrangement appeared simple enough. The company would do most of the work, setting up the concept, creating the cocktail menu, and taking care of ticketing. All Grace Emmerling and Jeff VanFossan had to do was sit back and watch the guests roll into the space, which, in October 2023, became a Tim Burton-inspired Halloween affair, then the holiday pop-up bar, Tinseltown: The Christmas Speakeasy.
+
+“They then took 100% of the ticket sales and we were able to collect on the bar,” Emmerling tells Pittsburgh City Paper, adding that they saw it as a great opportunity to establish the bar they bought and reopened and had, at that time, been managing for less than a year.
+
+“We were looking to bring people in, and that final quarter of the year is a really critical quarter for the service industry. So it was really attractive to us because we felt like we were getting an audience that we would not have otherwise had … So that's why it was a good fit for us at the time.”
+
+Emmerling says that, while their working relationship with Viral Ventures was positive overall, they had to take a more hands-on role, as representatives from the Australia-based company were often off-site working on other projects. Viral Ventures also faced controversy in 2021, with Pittsburgh patrons claiming that the global company had underdelivered or misled them, taking them down a confusing rabbit hole defined by an apparent lack of customer service, a business model that included operating under several different names (including Immersive Ventures and Hidden Media Network) and websites, and a no-refund policy.
+
+As a result, in January 2024, Emmerling and VanFossan decided to cut ties with Viral Ventures and pursue their own original immersive concepts. Since then, Mixtape has transported guests into Alice in Wonderland, the world of Nintendo-era video games, a Hogwarts-like magical academy, and a graffiti-splashed subway honoring 1980s hip-hop culture.
+
+Since Oct. 2, the bar has welcomed guests to The Nightmare Before Mixtape, a new iteration of the immersive experience that started it all. A giant, inflatable, neon-green version of Oogie Boogie from The Nightmare Before Christmas hovers over Mixtape’s signature sign, and inside, murals of Jack Nicholson’s Joker from the 1989 Batman film, black-and-white Beetlejuice striping, and other Burton-esque touches are meant to delight revelers looking for Halloween fun.
+
+Emmerling says the choice to do the immersives independently has given them the freedom to create a “canvas for local talent,” commit to levels of quality and creative expression not possible under Viral Ventures, and ensure that the money they make stays in the city.
+
+She and VanFossan recruited a team of artists led by muralists Max “GEMS” Gonzalez and Shane Pilster, set designer Johnmichael Bohach, and others to execute colorful visions accented with interactive elements like arcade consoles (for Super Mixtape 64\) and themed cocktails.
+
+The immersive experiences add an appealing extra layer to Mixtape’s regular event roster, which features DJ dance parties that play everything from New Wave hits to funk, karaoke, speed-dating mixers, and more.
+
+So far, Emmerling says patrons have reacted positively to The Nightmare Before Mixtape.
+
+“Jeff was just kind of standing outside on the corner while a group of people were going in for a session, and he heard someone say, ‘This better be different than last year’ or something. And then they opened up the front door and they're like, ‘Whoa.’”
+
+Emmerling credits much of the concepts' success to focusing on minute details, especially when catering to pop culture fans, adding, “Whether it's video games or *Alice in Wonderland* or Tim Burton or Halloween in general, people pick up on the little things.”
+
+The thoughtfulness of Mixtape’s approach contrasts with several disastrous immersive experiences hosted by companies similar to Viral Ventures. This year, a [Willy Wonka experience](https://www.bbc.com/news/uk-scotland-glasgow-west-68431728) in Glasgow, Scotland, and [a *Bridgerton*\-inspired ball](https://ew.com/fans-outraged-after-bridgerton-inspired-ball-in-detroit-fails-to-deliver-8718298) in Detroit both generated headlines for promoting grand ideas, only to deliver sparsely decorated venues, subpar food and drink, and bizarre, unthematic entertainment, leaving attendees demanding refunds and feeling scammed.
+
+October promises more spooky happenings in Mixtape's decorated space, including a Burton Ball on Sat., Oct 26, followed on Wed. Oct. 30 by a pre-Halloween sober disco night co-hosted by [The Open Road](https://www.pghcitypaper.com/best-of/2023/food-drink/best-mocktail-2023-the-open-road-24579129), a non-alcoholic bottleshop that recently moved from Allentown to Garfield.
+
+Emmerling foresees continuing the Mixtape immersive experiences through the end of the year, but believes the frequency and amount of work involved makes them unsustainable over the long term. Even so, she doesn't want to abandon what has been a creatively fulfilling effort for her and VanFossan.
+
+“But next year we'll definitely do it in some capacity,” she says. “This year, we changed every two months, pretty much like clockwork, and I don't think we'll do that … I don't know if it will be quite as frequent.”
+
+**Pennsylvania's 17th congressional district**
+
+Pennsylvania's 17th congressional district is located in southwestern Pennsylvania, which includes the entirety of Beaver County and the northwestern parts of Allegheny County not part of the 12th district. It has been represented since January 3, 2023 by Democrat Chris Deluzio.
+
+In January 2018, the Supreme Court of Pennsylvania ruled that the 2011 map violated the state constitution and redrew it on February 18, 2018\. What was the 17th district, which had been anchored in Northeast Pennsylvania, was modified to become the 9th district, and the old 12th district likewise became the 17th, for the 2018 elections and representation thereafter until the current map was ordered on February 23, 2022.\[3\]\[4\]\[5\] In the 2020 redistricting cycle, its portion of Butler County, including Cranberry Township, was removed from the district, while it gained some eastern suburbs of Pittsburgh, such as Forest Hills and Wilkinsburg.
+
+The district is one of seven with a Cook Partisan Voting Index of EVEN, meaning that the district votes almost identically to the national electorate.
+
+**Earl “Fatha” Hines”**
+
+Pittsburgh is a foundational city of this American music we call “jazz.”
+
+Earl “Fatha” Hines” was a major jazz figure from Duquesne, PA who influenced the musical world. Called “Fatha” because he was, early in his career, considered the father of what became jazz piano.
+
+Earl Hines is at long-last being recognized for his historical importance by the [Pennsylvania Historical Commission with a marker to be located his hometown of Duquesene](https://www.media.pa.gov/pages/phmc-details.aspx?newsid=385), which was approved and announced in March 2021\.
+
+The [markers](https://paheritage.wpengine.com/article/century-marking-history-100-years-pennsylvania-historical-marker-program/) share [a fabulous and broad array of stories](https://www.phmc.pa.gov/Preservation/Historical-Markers/Pages/Approved-Markers.aspx) from where we live, and the 2021 class included recognition for Earl Hines, Andy Warhol, Stan Musial and other people and places worthy of recognition.
+
+**History**
+
+"The City of Pittsburgh was originally home to eight Carnegie libraries constructed at the turn of the twentieth century. In 1881, Andrew Carnegie offered a US$250,000 grant to the city for the construction of a public library on the condition that the city provided the land and annual funding for the maintenance of the property. The city declined Carnegie's initial offer out of concern that a publicly funded library was not a state-sanctioned use of public tax funds. With the passing of several years and the state legislature's endorsement of the project, however, the city reconsidered the offer and reached out to Carnegie in the interest of accepting his grant.
+
+In 1890, the City of Pittsburgh accepted an expanded grant of $1 million for the building of the main library in Oakland and five branches in the neighborhoods of Lawrenceville, West End, Wylie Avenue (Hill District), Mount Washington, and Hazelwood. While the initial plan only called for those five branches, the city later received another three Carnegie libraries in the East Liberty, South Side, and Homewood neighborhoods. Construction on the main library was finished in 1895 while the branch libraries were constructed over the following fifteen years, ending with the completion of the Homewood branch in 1910\.
+
+Six of the original Carnegie library branch locations continue to serve as public libraries in their respective neighborhoods: Lawrenceville, West End, Mount Washington, Hazelwood, South Side, and Homewood. The East Liberty branch was demolished in the 1960s as part of a redevelopment plan, and the Wylie Avenue branch was moved to a new location in 1982\.
+
+In January 2022, the 201 members of the United Library Workers (ULW), the union of library staff, which organized with United Steelworkers in 2019, ratified their first contract with the library's management. Environmental service workers and drivers had already been unionized with the Teamsters and SEIU."
+
+**Branches/Locations**
+
+"Allegheny    
+Allegheny County Law Library    
+Beechview    
+Brookline    
+Carrick    
+Downtown and Business    
+East Liberty    
+Hazelwood    
+Hill District    
+Homewood    
+Knoxville    
+Lawrenceville    
+Library of Accessible Media for Pennsylvanians (formerly Library for the Blind and Physically Handicapped) (Bloomfield)    
+Main (Oakland)    
+Mt. Washington    
+Sheraden    
+South Side    
+Squirrel Hill    
+West End    
+Woods Run"
+
+**Partnership with suburban branches**
+
+"For decades, CLP has partnered with suburban area branches, and, in 2014, talks were started seeking innovative ways to combine some services."
+
+**Theft case**
+
+"In 2018, the Pittsburgh Post-Gazette reported that nearly 320 rare books, maps, engravings, and other items had been stolen from the Carnegie Library of Pittsburgh's main branch in Oakland, which houses the system's rare book collection. The items, including a 1787 document signed by Thomas Jefferson, were valued at more than $8 million. In July 2018, a former library archivist and a Pittsburgh-area bookseller were charged with the thefts, which took place over a period of two decades.
+
+It was one of the largest rare-book theft cases in history. According to the criminal complaints detailing alleged scheme, the archivist said that he "often removed items from the Oliver Room at the library's main branch in Oakland by carrying individual plates \[and\] maps in manila folders, or for books or larger items, by brazenly rolling them up and walking out." The archivist is alleged to have turned the rare items over to the bookseller, who would then sell them through his store."
+
+Pittsburgh Zoo & Aquarium
+
+Date opened June 14, 1898 Location Pittsburgh, Pennsylvania, United States (in Highland Park) Land area 77 acres (31 ha) No. of animals Over 4,000 No. of species 475 Annual visitors 1+ million Major exhibits Forest Passage, African Savanna, Tropical Forest, The Islands, Jungle Odyssey, Aquarium, Water's Edge, Kid's Kingdom Website www.pittsburghzoo.com The Pittsburgh Zoo & Aquarium is a zoo and aquarium in the United States, one of only six major zoo and aquarium hybrids in the United States. Located in Pittsburgh, Pennsylvania's Highland Park, the zoo sits on 77 acres (31 ha) of park land where it exhibits more than 4,000 animals representing 475 species, including 20 threatened or endangered species.
+
+First opened in 1898 as the Highland Park Zoo, the zoo evolved from a menagerie to a conservation-focused institution. Pittsburgh saw its zoo grow beginning in the late 1930s when the Works Progress Administration and donations from foundations spearheaded expansions, including then the second largest aquarium in the United States. The zoo was known as the Pittsburgh Zoo and PPG Aquarium from 2002 to 2022, incurred during a 20-year naming rights agreement with PPG Industries. The zoo's accredited membership of the Association of Zoos and Aquariums (AZA) was dropped in 2015, and later regained in 2024\.
+
+History Highland Park Zoo
+
+Entrance to the Highland Park Zoo, c. 1900 The Pittsburgh Zoo opened on June 14, 1898, as Highland Park Zoo, after Christopher Lyman Magee donated $125,000 (about four million dollars when adjusted for inflation) for the construction of a zoological garden in Pittsburgh's Highland Park.
+
+Like most other zoos of the time, the Pittsburgh Zoo more closely resembled a menagerie than an actual zoo. However, as time progressed, the animal exhibits eventually became more naturalistic, and the zoo's goal became more focused on conservation.
+
+Expansion under the Works Progress Administration In 1937, the bear exhibits and the main building of the zoo were built under the Works Progress Administration. These exhibits were the zoo's first attempt at constructing more naturalistic exhibits instead of simply displaying animals in cages. In 1949, the Children's Zoo opened with a grant from the Sarah Mellon Scaife Foundation. The Children's Zoo contained interactive exhibits and play areas for children, including a simulated large chunk of cheese that was inhabited by dozens of live mice. In 1967, the AquaZoo, a large aquarium, opened to the public. At the time of its completion, the AquaZoo was the only aquarium in Pennsylvania and the second largest aquarium in the United States.
+
+Master plan In 1980, the zoo's Master Plan was put into effect. This plan called for extensive renovations and the construction of more naturalistic exhibits. The Asian Forest, which opened in 1983, was the first area of the zoo that utilized this new philosophy of naturalistic exhibits. The African Savanna was the next area to obtain naturalistic exhibits when it was completed in 1987\. 1991 marked the opening of the Tropical Forest, a five-acre indoor rain forest showcasing about 16 species of primate and 150 tropical plant species. That same year, the Children's Zoo was renovated and renamed the Children's Farm. Three petting zoos were built in Children's Farm where children could pet kangaroos, deer, and domesticated animals such as sheep and goats. By 1996, the Children's Farm was replaced by a new exhibit, Kids Kingdom.
+
+In 1994, the Pittsburgh Zoo became a private nonprofit organization, still owned by the City of Pittsburgh but managed and operated by the Zoological Society of Pittsburgh. That same year, the Education Complex was built. This new building contained five classrooms, a library, and a 300-seat lecture hall. The construction of this building was an important part of the zoo's history because it signified the zoo's dedication to conservation and education.
+
+Present history and expansions Two major construction projects In 2000, the AquaZoo underwent a $17.4 million renovation and was renamed the PPG Aquarium. This new aquarium is twice the size of the original AquaZoo. In 2002, the Education Complex was expanded to include a second story providing more classrooms teacher resource areas and an animal holding area. This expansion was made possible by donations from senator Rick Santorum.
+
+On November 19, 2002 elephant keeper Mike Gatti was killed by one of the zoo's elephants Gatti was killed while attempting to encourage an elephant to move to a different part of her enclosure She butted him with her head crushing him against ground killing him instantly This first instance human fatality at zoo although there had been injuries
+
+In 2006 Pittsburgh Zoo completed Water's Edge marine exhibit allows guests have close encounters polar bears sea otters sand tiger sharks On November Maddox Derkosh who sitting railing African wild dog exhibit fell off railing bounced protective netting fell enclosure resulting death medical examiner subsequently determined Maddox killed dogs attacked not fall Zookeepers immediately rushed area firing darts try scare dogs off police shot particularly aggressive dog refused retreat exhibit called other dogs quarantined thirty days plans put them down prosecutor Allegheny County Pennsylvania District Attorney Stephen Zappala calling incident tragic accident stated he will not charge Maddox mother Elizabeth Derkosh lifted visually impaired boy top railing better view investigating whether fault due any possible negligence Since incident replaced wild dogs cheetahs result death Trucks Maddox created donate Maddox toy trucks children also second human fatality at zoo
+
+Exhibits The Pittsburgh Zoo is divided into eight sections each which focuses on particular theme Kid's Kingdom
+
+The sea lion exhibit in Kids Kingdom section Pittsburgh Zoo Kid's Kingdom opened when simply called Children's Zoo naming contest implemented new name newly expanded area name winner Adam Mellinger Westmoreland County Pennsylvania section interactive children's area contains petting stocked domesticated animals reptile house playground several featuring wildlife Pennsylvania including white-tailed deer North American beavers river otters barn owls California sea lion exhibit
+
+Kid's Kingdom contains many interactive exhibits such meerkat exhibit crawl-through tunnels gives viewer idea what like meerkat other burrowing animal walk-through red kangaroo pen animal yards habitats Kids Kingdom allow visitors learn about animals lives behaviors points-of-view highly ranked both Parent Magazine America's Best Zoos Travel Guide
+
+Aquarium The PPG Aquarium at Pittsburgh Zoo Built then called AquaZoo renovated PPG Aquarium square foot two-story presents several aquatic habitats theme Diversity Water contains several portray different marine ecosystems including tropical rainforest gallery Pennsylvania features fish aquatic wildlife Allegheny River penguin inhabited kings macaronis gentoos coral reef open ocean exhibit
+
+The aquarium used contain Amazon river dolphins When AquaZoo opened October included baby river dolphin named Pinky However Pinky died twelve days after opening eye infection seven arrived however emergency digestive surgery One arrived Chuckles survived Chuckles longest-living river dolphin captivity became only North America performed tricks interacted visitors trainers would swim occasionally When renovated Chuckles transferred customized pool five times size previous home died elderly age years old February portrait commemorating found Aquarium
+
+In PPG Industries announced intention sponsor purchase naming rights years naming facility Upon expiration reverted name Forest Passage Forest Passage formerly Asian Forest contains several species Eastern Southeast Asia simulates journey Himalayas Indonesia section features critically endangered big cats Siberian tigers Amur leopards several other Asian animals Komodo dragons red pandas section result Master Plan dedicated create more naturalistic existed time
+
+In January snow leopard Chaney died cancer Since displayed Canada lynxes former exhibit late several cubs born pair resulting larger family Lynx prompted rename light inclusion non-Asian animal Tropical Forest Big Male Gorilla Tropical Forest opened acre indoor rainforest building focuses mostly primates containing Ring-tailed lemurs black-and-white ruffed lemurs red tufted capuchins white-faced sakis black howler monkeys northern white-cheeked gibbons Angola colobuses blue monkeys great apes including western lowland gorillas Bornean orangutans Some other rainforest animals displayed Hoffmann's two-toed sloths African Savanna African bush elephant Loxodonta africana Like modeled give viewer impression walking along river African savanna lions African bush elephants Masai giraffes Grant zebras eastern black rhinos American flamingos common ostriches nyalas dwarf crocodiles Galápagos tortoises Cheetah Valley part originally housed pack removed order ensure safety visitors now features cheetahs Visitors view glass panel former observation platform permanently replaced tall protective welded fences shrubbery Bears The three bear built under Works Progress Administration program oldest Three bear species displayed American black bears spectacled Kodiak bear In August announced their Kodiak bear Rocky suffering severe arthritis joints between vertebrae causing severe pain limited mobility Although veterinary staff attempted alleviate pain quality life continued rapidly decline humanely euthanized As August empty Plans exist construct new old being used expansion construction sealed path leading now used staff only Water's Edge Polar bear taking stroll Completed newer located adjacent constructed resemble coastal fishing village illustrates ways humans interact marine wildlife coastal areas long walk-through tunnel runs through large water tanks containing polar bears sea otters female northern elephant seals sea lions According Barbara Baker elephant seal originally intended walruses difficult obtain sand tiger sharks housed enclosure moved Neptune Park Florida blind named Coolio rescued Northcoast Marine Mammal Center arrived early As rescued females named Ellie Mae Nessie brought Coolio died December during veterinary procedure sand tiger sharks moved process Islands Opened June Islands exhibit square foot featuring endangered tomistomas Philippine crocodiles Aldabra giant tortoises Visayan warty pigs clouded leopards siamangs scenery intended provide atmosphere tropical island includes large sand beach chairs umbrellas Jungle Odyssey Opened June Jungle Odyssey expansion directly behind displays rainforest animal species rainforests around world Africa Asia South America featuring mixed housing capybaras giant anteaters ocelots fossas pygmy hippopotamus Breeding On September female African elephants Moja successfully gave birth female calf later named Victoria major feat because Victoria first born survive North America since Also first born captive-born mother second male named Callee born another Savannah almost exactly year later father both calves bull named Jackson currently only male breeding naturally Both Moja Savannah became pregnant July Savannah gave birth female calf named Angelina female Zuri Amur tiger On August Amur Toma gave birth litter three cubs major accomplishment Amurs endangered every successful litter counts great deal Although cubs died heart defect September female named Nadya healthy doing well surviving male Petya female Mara Another cub born May male Grom name meaning Thunder born thunderstorm taken mother because attentive Handlers later determined most likely producing enough milk any all baby cub named Billy Ray Cyrus country music television star representatives said donors paid honor late family member big fan likely grow feet long weigh pounds October African painted Vega gave birth nine live puppies dead puppy died next leaving puppies orphaned nurse raise found domesticated Honey local shelter recently given birth still lactating immediately took fed vet staff hand-fed liquid diet fortified enzymes Although remaining healthy doing well month painted involved death young November during which shot closed safety concerns left moved.
+
+According to available information, the University of Pittsburgh Medical Center (UPMC) has consistently earned the "World's Most Ethical Companies" award from the Ethisphere Institute since 2000, signifying a focus on ethical business practices in the healthcare sector.
+
+**Pittsburgh Pirates Staff Roles**
+
+Major League Manager-Derek Shelton  
+Bench Coach-Donald Kelly  
+Pitching Coach-Oscar Marin  
+Major League Coach-Mendy Lopez  
+Translator and Assistant Coach-Stephen Morales  
+Assistant Hitting Coach-Christian Marrero  
+1st Base Coach-Tarrik Brock  
+3rd Base Coach and Field Coordinator-Mike Rabelo  
+Bullpen Catcher and Catching Assistant-Jordan Comadena  
+Run Prevention and Game Planning Coach-Radley Haddad  
+Assistant Director \- Hitting-Timothy McKeithan  
+Assistant Director \- Pitching-Jeremy Bleich  
+Coordinator \- Mental Performance-Andy Bass  
+Major League Assistant-Jacob Mencacci  
+Major League Assistant-Alex Jimenez  
+Major League Video Coordinator-Kevin Roach  
+Major League Video Assistant-Matthew Rosa
+
+
+
 # Miniature Railroad & Village
 
 ## History

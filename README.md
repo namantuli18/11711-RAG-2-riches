@@ -88,5 +88,5 @@ The fine-tuning pipeline is structured in two phases:
    ```bash
    python3 scripts\finetuning\QA_Generation\generate_qa.py "Enter your text here"
 4. The entire corpus of our question and answer pairs is located in separate text files in the folder: data\finetune_data\QnA-corpus.
-5. The notebook to train the LLaMa-3.2 model on the synthetically generated data is in [scripts\finetuning\llama-3-2-3b-finetune-train.ipynb](https://github.com/namantuli18/11711-RAG-2-riches/blob/main/scripts\finetuning\llama-3-2-3b-finetune-train.ipynb)
-6. The notebook to run RAG inference using the fine-tuned LLaMa-3.2 model on the synthetically generated data is in [scripts\finetuning\llama-2-2-3b-finetune-inference.ipynb](https://github.com/namantuli18/11711-RAG-2-riches/blob/main/scripts\finetuning\llama-2-2-3b-finetune-inference.ipynb)
+5. The notebook to train the LLaMa-3.2 model on the synthetically generated data is in [scripts\finetuning\llama-3-2-3b-finetune-train.ipynb](https://github.com/namantuli18/11711-RAG-2-riches/blob/main/scripts/finetuning/llama-3-2-3b-finetune-train.ipynb)
+6. The notebook to run RAG inference using the fine-tuned LLaMa-3.2 model on the synthetically generated data is in [scripts\finetuning\llama-2-2-3b-finetune-inference.ipynb](https://github.com/namantuli18/11711-RAG-2-riches/blob/main/scripts/finetuning/llama-3-2-3b-finetune-inference.ipynb)

@@ -37,7 +37,8 @@ def save_processed_csv(wiki, page_title, exclude_sections):
     df = pd.DataFrame(data, columns=['section', 'text'])
     df.to_csv(os.path.join(os.path.curdir, 'raw_data/{}.csv'.format(page_title)), index=False)
 
-page_names = ['Pittsburgh',
+page_names = [
+    'Pittsburgh',
     'History of Pittsburgh',
     'Pittsburgh Symphony Orchestra',
     'Pittsburgh Opera',
@@ -87,7 +88,11 @@ page_names = ['Pittsburgh',
     'Carnegie_Library_of_Pittsburgh',
     'Shadyside (Pittsburgh)',
     'Squirrel Hill',
-    'University_of_Pittsburgh_Medical_Center']
+    'University_of_Pittsburgh_Medical_Center',
+    'Sophie Masloff',
+    'Pennsylvania Station (1910–1963)',
+    'St. Stanislaus Kostka Church (Pittsburgh)',
+    'Pennsylvania\'s 17th congressional district']
 
 exclude_sections = ['See also', 'References', 'Bibliography', 'External links', 'Explanatory notes', 'Further reading']
 for page in tqdm.tqdm(page_names):

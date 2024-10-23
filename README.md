@@ -8,7 +8,7 @@ The fine-tuning pipeline is structured in two phases:
 
 * Phase 1 involves fine-tuning the model using synthetically generated question-answer pairs relevant to the target domain (CMU and Pittsburgh).
 * Phase 2 focuses on retrieving relevant documents from a database, re-ranking them based on relevance, and then sending them to the model for final predictions.
-![RAG Finetuning Pipeline](http://url/to/img.png)
+![RAG Finetuning Pipeline](https://github.com/namantuli18/11711-RAG-2-riches/blob/main/resources/imgs/RAG-Pipeline.png?raw=true)
 
 #### Phase 1
 * For generating the question-answer pairs from the data in our corpus, we have used a paragraph level QA Generation system using a T5Large model finetuned on the SQuAD dataset.

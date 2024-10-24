@@ -90,3 +90,99 @@ The fine-tuning pipeline is structured in two phases:
 4. The entire corpus of our question and answer pairs is located in separate text files in the folder: data\finetune_data\QnA-corpus.
 5. The notebook to train the LLaMa-3.2 model on the synthetically generated data is in [scripts\finetuning\llama-3-2-3b-finetune-train.ipynb](https://github.com/namantuli18/11711-RAG-2-riches/blob/main/scripts/finetuning/llama-3-2-3b-finetune-train.ipynb)
 6. The notebook to run RAG inference using the fine-tuned LLaMa-3.2 model on the synthetically generated data is in [scripts\finetuning\llama-2-2-3b-finetune-inference.ipynb](https://github.com/namantuli18/11711-RAG-2-riches/blob/main/scripts/finetuning/llama-2-2-3b-finetune-inference.ipynb)
+
+## Hybrid Search
+
+To run the script for this setup, follow these steps:
+
+1. **Navigate to the manually annotated data:**
+   - Go to the following directory:
+     ```bash
+     cd results/manually_annotated_data/hybrid_search_only
+     ```
+
+2. **Run the relevant notebook:**
+   - Open the Jupyter notebook:
+     ```bash
+     ANLP_Markdown_OverlapChunking_only.ipynb
+     ```
+
+3. **Use the combined data file:**
+   - Ensure you're using the data from the following directory:
+     ```bash
+     combined_data/final_data.md
+     ```
+
+Follow the steps in the notebook to setup Ollama in a Colab Environment.
+
+## Hybrid Search + Contextual Summary
+
+To run the script for this setup, follow these steps:
+
+1. **Navigate to the manually annotated data:**
+   - Go to the following directory:
+     ```bash
+     cd results/manually_annotated_data/hybrid_search+contextual_summary
+     ```
+
+2. **Run the relevant notebook:**
+   - Open the Jupyter notebook:
+     ```bash
+     ANLP_<model_name>_Markdown_OverlapChunking+Contextual.ipynb
+     ```
+
+3. **Use the combined data file:**
+   - Ensure you're using the data from the following directory:
+     ```bash
+     combined_data/final_data_contextual.md
+     ```
+
+Follow the steps in the notebook to setup Ollama in a Colab Environment.
+
+## Hybrid Search + Contextual Summary + Relevancy
+
+To run the script for this setup, follow these steps:
+
+1. **Navigate to the manually annotated data:**
+   - Go to the following directory:
+     ```bash
+     cd results/manually_annotated_data/hybrid_search+contextual_summary+relevancy
+     ```
+
+2. **Run the relevant notebook:**
+   - Open the Jupyter notebook:
+     ```bash
+     ANLP_<MODEL NAME>_Markdown_OverlapChunking+Relevancy.ipynb
+     ```
+
+3. **Use the combined data file:**
+   - Ensure you're using the data from the following directory:
+     ```bash
+     combined_data/final_data_contextual.md
+     ```
+
+Follow the steps in the notebook to setup Ollama in a Colab Environment.
+
+## Semantic Chunking + Hybrid Search + Contextual Summary
+
+To run the script for this setup, follow these steps:
+
+1. **Navigate to the manually annotated data:**
+   - Go to the following directory:
+     ```bash
+     cd results/manually_annotated_data/semantic_chunking+hybrid_search+contextual_summary
+     ```
+
+2. **Run the relevant notebook:**
+   - Open the Jupyter notebook:
+     ```bash
+     ANLP_gemma_Markdown_OverlapSemanticChunking+Contextual.ipynb
+     ```
+
+3. **Use the combined data file:**
+   - Ensure you're using the data from the following directory:
+     ```bash
+     combined_data/final_data_contextual.md
+     ```
+
+Follow the steps in the notebook to setup Ollama in a Colab Environment.
